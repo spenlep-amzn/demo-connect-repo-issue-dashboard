@@ -1,0 +1,10 @@
+name: Repository Overview
+uses: lowlighter/metrics@latest
+with:
+  template: repository
+  filename: metrics.repository.svg
+#   token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+  user: amazon-connect
+  repo: amazon-connect-chatjs
+  plugin_lines: yes
+  plugin_followup: yes
