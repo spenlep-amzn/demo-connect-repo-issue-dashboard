@@ -17,3 +17,7 @@ Proof-of-concept GitHub OPS Dashboard, for ChatInterface, ChatJS, and UI-Example
 <picture>
   <img src="/chat-ui-examples-metrics.repository.svg" alt="Metrics" width="700">
 </picture>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=amazon-connect/amazon-connect-chat-ui-examples,amazon-connect/amazon-connect-chatjs,amazon-connect/amazon-connect-chat-interface&type=Date)](https://star-history.com/#amazon-connect/amazon-connect-chat-ui-examples&amazon-connect/amazon-connect-chatjs&amazon-connect/amazon-connect-chat-interface&Date)
