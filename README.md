@@ -4,5 +4,13 @@ Proof-of-concept GitHub OPS Dashboard, for ChatInterface, ChatJS, and UI-Example
 ---
 
 <picture>
-  <img src="/metrics.repository.svg" alt="Metrics">
+  <img src="/chat-interface-metrics.repository.svg" alt="Metrics" width="700">
+</picture>
+
+<picture>
+  <img src="/chatjs-metrics.repository.svg" alt="Metrics" width="700">
+</picture>
+
+<picture>
+  <img src="/chat-ui-examples-metrics.repository.svg" alt="Metrics" width="700">
 </picture>
