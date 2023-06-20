@@ -2,7 +2,7 @@
 
 > Uses a feature from the open source [lowlighter/metrics](https://github.com/lowlighter/metrics/tree/master) project.
 
-Proof-of-concept GitHub OPS Dashboard, for ChatInterface, ChatJS, and UI-Examples repositories
+Proof-of-concept GitHub OPS Dashboard, for [ChatInterface](https://github.com/amazon-connect/amazon-connect-chat-interface), [ChatJS](https://github.com/amazon-connect/amazon-connect-chatjs), and [UI-Examples](https://github.com/amazon-connect/amazon-connect-chat-ui-examples) repositories from the [Amazon Connect GitHub Organization](https://github.com/amazon-connect)
 
 ---
 
