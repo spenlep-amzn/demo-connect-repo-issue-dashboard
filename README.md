@@ -22,5 +22,10 @@ GitHub Dashboard, for [ChatInterface](https://github.com/amazon-connect/amazon-c
 
 ## Notes
 
-- Snapshot at creation: [README Link](https://github.com/spencerlepine/demo-connect-repo-issue-dashboard/tree/68118cbcee999b308209d79327c098a3a9170cb8) (2, 31, 12 issues on 5/3/2023) now (1, 12, 2 [-66%] on 11/13/2023)
-- Uses a feature from the open source [lowlighter/metrics](https://github.com/lowlighter/metrics/tree/master) project
+- Snapshot 5/3/2023: (2, 31, 12) [README Link](https://github.com/spencerlepine/demo-connect-repo-issue-dashboard/tree/68118cbcee999b308209d79327c098a3a9170cb8)
+- Snapshot 11/13/2023: (1, 12, 2) [-66%]
+- Uses [lowlighter/metrics](https://github.com/lowlighter/metrics/tree/master)
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fspenlep-amzn%2Fdemo-connect-repo-issue-dashboard&label=VIEWS&countColor=%23263759)
+
+
